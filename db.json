@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Render static UI",
+      "isComplete": true
+    },
+    {
+      "id": 2,
+      "name": "Create initial state",
+      "isComplete": true
+    },
+    {
+      "id": 3,
+      "name": "Render based on state",
+      "isComplete": false
+    },
+    {
+      "id": 4,
+      "name": "Added todo",
+      "isComplete": true
+    },
+    {
+      "name": "New todo",
+      "isComplete": false,
+      "id": 5
+    },
+    {
+      "name": "Saving messages",
+      "isComplete": false,
+      "id": 6
+    },
+    {
+      "name": "Increase the timeout time",
+      "isComplete": false,
+      "id": 9
+    },
+    {
+      "name": "Improve show message",
+      "isComplete": false,
+      "id": 10
+    }
+  ]
+}
